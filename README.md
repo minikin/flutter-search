@@ -6,7 +6,7 @@ Flutter Search is cross-platform mobile app powered with Flutter.
 
 ## Motivation
 
-To demonstrate how trivial is a creation of complex /custom search bars in Dart/Flutter.
+Demonstrate how is a minute to create complex search bars in Dart/Flutter.
 
 - [Flutter Search](#flutter-search)
   - [Features](#features)
