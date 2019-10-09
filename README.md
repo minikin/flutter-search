@@ -20,12 +20,12 @@ Demonstrate how is a minute to create complex search bars in Dart/Flutter.
 
 ## Requirements
 
-- Flutter 1.5.4
-- Dart 2.3.0+
-- Xcode 10.0+
+- Flutter 1.9.1+
+- Dart 2.5.0+
+- Xcode 11.0+
 - Androind Studio 3.3.1+
 - Ruby 2.4+
-- CocoaPods 1.5.0+
+- CocoaPods 1.7.0+
 - Flutter & Dart plugins:
   - [Visual Studio Code](https://flutter.dev/docs/get-started/editor?tab=androidstudio)
   - [Android Studio / IntelliJ](https://flutter.dev/docs/get-started/editor?tab=vscode)
